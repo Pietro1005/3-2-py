@@ -1,4 +1,4 @@
-def jogar(hollow_knight_silksong):
-    print("Joguei hollow knight silksong no meu computador")
+def jogar(jogo):
+    print(f"Joguei {jogo} no meu computador")
 
 jogar("hollow knight silksong")
